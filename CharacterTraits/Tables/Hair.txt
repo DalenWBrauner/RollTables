@@ -1,0 +1,20 @@
+1. Bald
+2. Braided
+3. Curly
+4. Dreadlocks
+5. Frazzled
+6. Greasy
+7. Limp
+8. Long
+9. Messy
+10. Strange hairstyle
+11. Pony-tail
+12. Short
+13. Straight
+14. Streaked
+15. Thick
+16. Thinning
+17. Very Long
+18. Wavy
+19. Well groomed
+20. Wiry

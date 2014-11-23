@@ -1,0 +1,10 @@
+1. Head/Face
+2. Neck
+3. Chest
+4. Back
+5. Stomach
+6. Waist
+7. Right Arm
+8. Left Arm
+9. Right Leg
+10. Left Leg

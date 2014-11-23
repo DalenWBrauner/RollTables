@@ -1,0 +1,166 @@
+1-10. Birthmark*
+11-25. Body piercings*
+26-30. Chews tobacco
+31-35. Smokes
+36-50. Scarred*
+51-60. Tattooed*
+61. Allergic to food/dust/pollen/animals
+62. Always arrives late
+63. Always gives vaguest possible answer
+64. Always has something in hands
+65. Always wears as little as possible
+66. Always wears expensive clothes
+67. Always wears same color
+68. Always wears tattered clothes
+69. Answers questions with questions
+70. Aversion to certain kind of food
+71. Bad breath or strong body odour
+72. Bad/loud/annoying/shrill laugh
+73. Bad with money
+74. Believes all animals can talk to each other
+75. Bites fingernails
+76. Bites lips
+77. Black eye
+78. Bleeding nose
+79. Blinks constantly
+80. Bruises easily
+81. Burps
+82. Burn scar*
+83. Chews with mouth open
+84. Chortles
+85. Clicks tongue
+86. Collects teeth/hair/claws of slain opponents
+87. Constantly asks for divine advice
+88. Covered in sores, boils, or a rash
+89. Cracks knuckles
+90. Dandruff
+91. Dirty
+92. Distinctive jewellery
+93. Distracted easily during conversations
+94. Double-checks everything
+95. Drones on and on while talking
+96. Easily confused
+97. Enjoys own body odour
+98. Exaggerates
+99. Excessive body hair
+100. Fidgets
+101. Finishes others’ sentences
+102. Flatulent
+103. Flips a coin
+104. Foams at mouth when excited/angry
+105. Freckled
+106. Gesticulates wildly
+107. Giggles
+108. Grins evilly
+109. Hands shake
+110. Hacking cough
+111. Has nightmares
+112. Hates animals
+113. Hates children
+114. Hates quiet pauses in conversations
+115. Hiccoughs
+116. Hook for a hand
+117. Hums
+118. If unable to recall word, stops conversation and will not give up until can finally remember it
+119. Imaginary friend
+120. Interrupts others
+121. Jumps conversation topics
+122. Laughs at own jokes
+123. Lazy eyed
+124. Leers
+125. Likes to arm wrestle
+126. Limps
+127. Loves animals
+128. Loves children
+129. Loves the sea and ships
+120. Makes up words
+121. Mispronounces names
+122. Missing finger
+123. Mutters
+124. Needs story before sleeping
+125. Nervous cough
+126. Nervous eye twitch
+127. Nervous muscle twitch
+128. Paces
+129. Peg-legged
+130. Perfumed
+131. Picks fights
+132. Picks at fingernails
+133. Picks nose
+134. Picks scabs
+135. Picks at teeth
+136. Plays practical jokes
+137. Plays with hair
+138. Plays with own jewelry
+139. Pokes/taps others with finger
+140. Predilection for certain kind of food
+141. Prefers to be called by last name
+142. Puts garlic on all food
+143. Reads constantly, especially when inappropriate
+144. Refuses to let anyone walk behind them
+145. Refuses to sit in chairs
+146. Repeats same phrase over and over
+147. Rolls eyes when bored/annoyed
+148. Scratches
+149. Sharpens weapon
+150. Shivers
+151. Sings
+152. Sleeps late
+153. Sleeps nude
+154. Smiles when angry/annoyed
+155. Sneers
+156. Sneezes
+157. Sniffles
+158. Spits
+159. Squeamish
+150. Stands very close
+151. Stares
+152. Sucks teeth
+153. Sun-burned
+154. Swears profusely
+155. Sweaty
+156. Talks about self in third-person
+157. Talks to inanimate objects
+158. Talks to self
+159. Talks with food in mouth
+160. Taps feet
+161. Unexplained dislike for certain organization
+162. Urinates frequently
+163. Uses wrong word and refuses to acknowledge correct word
+164. Warts
+165. Wears flamboyant or outlandish clothes
+166. Wears hat or hood
+167. Wears only jewellery of one type of metal
+168. Wets bed
+169. Whistles
+170. Hates animals
+171. Taps fingers
+172. Taunts foes
+173. Thinks they are very lucky
+174. Thinks they can speak a language they can’t
+175. Tone-deaf
+176. Touches people while talking to them
+177. Turns every conversation into story about self
+178. Unable to figure out which color clothes match
+179. Unable to let a joke die
+180. Unable to remember names
+181. Achluophobic (afraid of darkness)
+182. Agoraphobic (afraid of open spaces)
+183. Altophobic (afraid of heights)
+184. Claustrophobic (afraid of small spaces)
+185. Drools
+186. Entomophobic (afraid of insects)
+187. Excessively clean
+188. Facial tic
+189. Haphephobic (afraid of being touched)
+190. Hallucinates
+191. Hemaphobic (afraid of blood)
+192. Hydrophobic (afraid of water)
+193. Insomniac
+194. Narcoleptic
+195. Pathological liar
+196. Picks at lint or dirt on others’ clothes
+197. Obsessive gambler
+198. Ophidiophobic (afraid of snakes)
+199. Ornithophobic (afraid of birds)
+200. Short attention span
